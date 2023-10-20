@@ -41,6 +41,8 @@ Basic Structure of a Java Program :
 
             <!-- The main() method is the entry point into the application. -->
 
+            System.out.println("Hello World");
+
         }
 
     }
