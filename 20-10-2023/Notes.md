@@ -46,3 +46,18 @@ Basic Structure of a Java Program :
         }
 
     }
+
+Anatomy of a Java Program :
+
+    Documentation Section --> Suggested
+
+    Package Statement     --> Optional
+
+    Import Statements     --> Optional
+
+    Interface Statements  --> Optional
+
+    Class Definitions     --> Optional
+
+    Main Code             --> Essential
+
