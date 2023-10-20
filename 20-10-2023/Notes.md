@@ -28,3 +28,8 @@ JRE :
     1. Java Runtime Environment
 
     2. Helps in executing programs developed in Java.
+
+Basic Structure of a Java Program :
+    
+    package com.company
+    <!-- A package in Java is used  -->
